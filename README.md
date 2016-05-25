@@ -7,6 +7,7 @@ This repository contains a Hansoft database containing a few examples of how the
 - Kanban example
 - Gantt example
 - Large Game: Showing how a AAA console game can be developed using Hansoft
+- VR Game: Providing specific example of how to manage a project iwth VR components
 - Large Scale Portfolio Program: The portfolio parts of Large Scale Program
 - Large Scale Program
 
