@@ -1,5 +1,6 @@
 # Hansoft's Example Database
 This repository contains a Hansoft database containing a few examples of how the tool can be used.
+To load this database you must Have Hansoft version 9.1032 or later.
 
 ## Included examples
 - Tutorial project: Items describing basic usage of Hansoft
